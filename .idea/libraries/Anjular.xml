@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Anjular">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Anjular" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/Anjular" recursive="false" />
+  </library>
+</component>
